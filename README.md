@@ -58,7 +58,7 @@ The Cryptocurrency Advisor Agent follows a sequential processing pipeline as ill
    - Displays response time, crypto knowledge score, and other performance data
    - Maintains citation to source documents when applicable
 ![System Architecture Diagram](images/system_architecture.png)
-![Prompt Structure](images/prompt_structure.png)
+![Prompt Structure](images/prompt_architecture.png)
 
 This architecture implements a full RAG (Retrieval-Augmented Generation) pipeline specifically optimized for cryptocurrency domain knowledge, with safeguards at each stage to ensure relevance, accuracy, and domain specificity.
 
